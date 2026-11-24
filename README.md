@@ -4,6 +4,8 @@ A free Python app for small businesses and students. You enter the stations of a
 and LineOpt finds the **bottleneck**, **simulates** the line with realistic random variation, and
 **ranks improvement scenarios** by the goal you choose (output, work-in-progress, cost, or workers).
 
+**Live demo: https://lineopt.streamlit.app** (no install needed)
+
 Built with Python, [SimPy](https://simpy.readthedocs.io/) (discrete-event simulation), Streamlit, and Plotly.
 
 ## Run it
