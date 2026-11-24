@@ -1,0 +1,12 @@
+task,description,time_min,predecessors
+A,Weigh ingredients,1.5,
+B,Mix dough,2.5,A
+C,Divide dough,1.2,B
+D,Shape rolls,3.0,C
+E,Prepare trays,0.8,
+F,Place on trays,1.5,D;E
+G,Bake,4.5,F
+H,Cool,1.0,G
+I,Bag rolls,1.8,H
+J,Label bag,0.7,I
+K,Box and seal,1.2,J
