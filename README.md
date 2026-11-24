@@ -9,6 +9,8 @@ Built with Python, [SimPy](https://simpy.readthedocs.io/) (discrete-event simula
 ## Run it
 
 ```bash
+git clone https://github.com/hephaestusforged766/lineopt.git
+cd lineopt
 pip install -r requirements.txt
 python -m streamlit run app.py
 ```
